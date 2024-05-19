@@ -2,17 +2,17 @@
 
 - Theory
   - Procedural programming: 🖐️ used
-  - Imperative programming: 🖐️ used
-  - Structured programming: 🎓 known
+  - Imperative programming: 🙋 explained
+  - Structured programming: 🖐️ used
   - Non-structured programming: 🎓 known
-  - Functional programming: 🎓 known
+  - Functional programming: 🖐️ used
   - Prototype-based programming: 👂 heard
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🎓 known
   - Generic programming: 👂 heard
   - Concurrent computing: 🎓 known
-  - Asynchronous programming: 🖐️ used
-  - Parallel programming: 🎓 known
+  - Asynchronous programming: 🙋 explained
+  - Parallel programming: 🙋 explained
   - Reactive programming: 👂 heard
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming: 👂 heard
@@ -20,21 +20,21 @@
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 👂 heard
   - Actor model: 🖐️ used
-  - Lambda calculus: 👂 heard
+  - Lambda calculus: 🎓 known
   - Black box: 👂 heard
-  - Information hiding: 👂 heard
-  - Aspect-oriented programming: 👂 heard
+  - Information hiding: 🎓 known
+  - Aspect-oriented programming: 🎓 known
   - Anemic domain model: 👂 heard
   - Class composition: 👂 heard
 - OOP basics
-  - Constructor: 🖐️ used
-  - Operator `new`: 🖐️ used
-  - Static method: 🖐️ used
-  - Method: 🖐️ used
-  - Async method: 🖐️ used
-  - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
+  - Constructor: 🙋 explained
+  - Operator `new`: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
   - Field declarations: 🖐️ used
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
@@ -60,13 +60,13 @@
 - SOLID
   - Single-responsibility principle (SRP): 🖐️ used
   - Open–closed principle (OCP): 🎓 known
-  - Liskov substitution principle (LSP): 👂 heard
-  - Interface segregation principle (ISP): 👂 heard
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🎓 known
   - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
   - Singleton: 🎓 known
   - Factory Method: 🎓 known
-  - Abstract Factory: 👂 heard
+  - Abstract Factory: 🎓 known
   - Adapter: 👂 heard
   - Observer: 🖐️ used
   - Strategy: 👂 heard

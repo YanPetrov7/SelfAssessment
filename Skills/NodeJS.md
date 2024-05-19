@@ -5,7 +5,7 @@
   - Stateful and stateless servers: 🖐️ used
   - Nonblocking I/O and blocking code: 🖐️ used
   - Event loop phases: 🖐️ used
-  - Event loop microtasks and macrotasks: 🎓 known
+  - Event loop microtasks and macrotasks: 🖐️ used
   - Garbage collection: 🖐️ used
   - Node.js LTS schedule: 🖐️ used
   - I/O-bound, CPU-bound, memory-bound tasks: 🖐️ used
@@ -17,12 +17,12 @@
   - Caching in CJS and ESM: 🖐️ used
   - Modules as singletons: 🎓 known
   - Contexts and scripts module `node:vm`: 🎓 known
-  - Dependencies: `npm`, `node_modules`: 🖐️ used
-  - Files `package.json`, `package-lock.json`: 🖐️ used
+  - Dependencies: `npm`, `node_modules`: 🙋 explained
+  - Files `package.json`, `package-lock.json`: 🙋 explained
   - Module-based permissions model: 🎓 known
   - Isolation with modularity: 🎓 known
-  - Dependency injection: 🖐️ used
-  - DI containers: 🎓 known
+  - Dependency injection: 🙋 explained
+  - DI containers: 🖐️ used
   - Coupling and cohesion: 👂 heard
   - Framework agnostic approach: 🎓 known
 - Environment
@@ -30,17 +30,17 @@
   - Node.js CLI: 🖐️ used
   - Process-based permissions: 🎓 known
   - Graceful shutdown: 🖐️ used
-  - Clustering: 🎓 known
+  - Clustering: 🖐️ used
   - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API: 🎓 known
   - Web Streams API: 🎓 known
-  - Crypto API: 🎓 known
-  - Password hashing with crypto.scrypt: 🎓 known
+  - Crypto API: 🖐️ used
+  - Password hashing with crypto.scrypt: 🖐️ used
   - Web Crypto API: 👂 heard
   - File system API (sync and async): 🖐️ used
   - Copy folder recursively: 🎓 known
-  - Worker threads: 🎓 known
+  - Worker threads: 🖐️ used
   - Performance hooks: 🎓 known
   - Native fetch and nodejs/undici: 🖐️ used
   - async_hooks: 🖐️ used
@@ -49,11 +49,11 @@
   - Deprecated domain API: 🎓 known
   - Node.js single executable: 🎓 known
   - SharedArrayBuffer: 🖐️ used
-  - Module `node:worker_threads`: 🎓 known
+  - Module `node:worker_threads`: 🖐️ used
   - Module `node:child_process`: 🎓 known
   - MessageChannel, MessagePort: 🎓 known
   - BroadcastChannel: 🎓 known
-  - Generating crypto random UUID: 👂 heard
+  - Generating crypto random UUID: 🖐️ used
   - Module `node:url` vs `new URL`: 🎓 known
   - Module `node:assert`: 🎓 known
   - Internationalization: 👂 heard
@@ -67,24 +67,24 @@
   - Protocol agnostic approach: 🎓 known
   - Fetch API: 🖐️ used
   - IncomingMessage: 🖐️ used
-  - HTTP(S): 🖐️ used
+  - HTTP(S): 🙋 explained
   - TCP/SSL: 🖐️ used
-  - UDP: 🎓 known
-  - TLS: 🎓 known
+  - UDP: 🖐️ used
+  - TLS: 🖐️ used
   - Websocket: 🖐️ used
   - SSE: 👂 heard
   - HTTP/3 (QUIC): 👂 heard
   - Long polling: 👂 heard
   - REST: 🖐️ used
-  - RPC: 🎓 known
+  - RPC: 🖐️ used
   - Routing: 🖐️ used
   - DoS: 🎓 known
   - DDoS: 🎓 known
   - XSS: 🎓 known
-  - Path traversal: 🎓 known
+  - Path traversal: 🖐️ used
   - CSRF: 👂 heard
   - DNS: 🎓 known
-  - SQL injection: 🎓 known
+  - SQL injection: 🖐️ used
   - noDelay: 👂 heard
   - keep-alive: 🎓 known
   - IP sticky sessions: 👂 heard
@@ -104,28 +104,28 @@
 - Data access
   - Data access layer: 🎓 known
   - Repository: 🎓 known
-  - Active record: 👂 heard
-  - Query builder: 👂 heard
-  - Object-Relational Mapping: 🎓 known
-  - CRUD: 🖐️ used
-  - DTO: 🖐️ used
+  - Active record: 🎓 known
+  - Query builder: 🖐️ used
+  - Object-Relational Mapping: 🖐️ used
+  - CRUD: 🙋 explained
+  - DTO: 🙋 explained
 - Error handling and debugging
   - `Error`: 🖐️ used
-  - `error.cause`: 🎓 known
+  - `error.cause`: 🖐️ used
   - `error.code`: 🖐️ used
   - `error.message`: 🖐️ used
-  - `error.stack`: 🎓 known
+  - `error.stack`: 🖐️ used
   - `Error.captureStackTrace`: 👂 heard
   - How to avoid mixins: 🎓 known
   - Uncaught exceptions: 🎓 known
-  - Heap dump: 👂 heard
+  - Heap dump: 🎓 known
   - Debugging tools: 🎓 known
   - Flame graph: 👂 heard
   - Memory leaks: 🎓 known
   - Resource leaks: 🎓 known
   - Data race: 🎓 known
 - Integrations and bindings
-  - Native addons: 👂 heard
+  - Native addons: 🎓 known
   - `C` and `C++` addons: 👂 heard
   - `Rust` addons: 👂 heard
   - `Zig` addons: 👂 heard

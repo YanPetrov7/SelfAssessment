@@ -1,9 +1,9 @@
 ## Databases
 
 - Theory and concepts
-  - Data types: 🎓 known
+  - Data types: 🙋 explained
   - Performance tuning: 🎓 known
-  - Migrations: 🖐️ used
+  - Migrations: 🙋 explained
   - Schema versioning: 🖐️ used
   - Backup and recovery: 🖐️ used
   - Database scalability: 🎓 known
@@ -16,11 +16,11 @@
   - Navigational databases: 🖐️ used
   - Hierarchical databases: 🖐️ used
   - In-memory databases: 🎓 known
-  - Inverted index: 👂 heard
-  - Data control language (DCL): 🎓 known
-  - Data definition language (DDL): 🎓 known
-  - Data manipulation language (DML): 🎓 known
-  - Data query language (DQL): 🎓 known
+  - Inverted index: 🎓 known
+  - Data control language (DCL): 🖐️ used
+  - Data definition language (DDL): 🖐️ used
+  - Data manipulation language (DML): 🖐️ used
+  - Data query language (DQL): 🖐️ used
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
   - Normal forms: 🖐️ used
@@ -29,33 +29,33 @@
   - Foreign keys: 🙋 explained
   - Transactions: 🙋 explained
   - Views: 🖐️ used
-  - Subqueries: 🎓 known
+  - Subqueries: 🖐️ used
   - Stored procedures: 🖐️ used
   - SQL functions: 🖐️ used
   - Materialized views: 🎓 known
-  - Replications: 🎓 known
+  - Replications: 🖐️ used
   - Virtualization: 🎓 known
 - SQL
   - `SELECT`: 🙋 explained
   - `INSERT`: 🙋 explained
-  - `UPDATE`: 🖐️ used
-  - `DELETE`: 🖐️ used
-  - `LIMIT`: 🖐️ used
-  - `OFFSET`: 🎓 known
-  - `ORDER BY`: 🖐️ used
-  - `GROUP BY`: 🖐️ used
+  - `UPDATE`: 🙋 explained
+  - `DELETE`: 🙋 explained
+  - `LIMIT`: 🙋 explained
+  - `OFFSET`: 🖐️ used
+  - `ORDER BY`: 🙋 explained
+  - `GROUP BY`: 🙋 explained
   - `HAVING`: 🖐️ used
   - `EXISTS`: 🖐️ used
   - `JOIN`: 🖐️ used
   - `INNER JOIN`: 🖐️ used
   - `LEFT JOIN`: 🖐️ used
   - `RIGHT JOIN`: 🖐️ used
-  - `UNION`: 🎓 known
-  - `DISTINCT`: 🎓 known
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
   - `WHERE`: 🖐️ used
   - `LIKE`: 🖐️ used
-  - `IN`: 🎓 known
-  - `BETWEEN`: 👂 heard
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
   - `CREATE TABLE`: 🙋 explained
   - `ALTER TABLE`: 🙋 explained
   - `DROP TABLE`: 🙋 explained
@@ -65,18 +65,18 @@
   - `DEFAULT`: 🖐️ used
   - `INDEX`: 🖐️ used
   - `UNIQUE`: 🖐️ used
-  - `GRANT`: 👂 heard
-  - `REVOKE`: 👂 heard
-  - `DENY`: 👂 heard
-  - `EXPLAIN`: 👂 heard
+  - `GRANT`: 🎓 known
+  - `REVOKE`: 🎓 known
+  - `DENY`: 🎓 known
+  - `EXPLAIN`: 🎓 known
 - Engines
-  - PostgreSQL: 🖐️ used
+  - PostgreSQL: 🙋 explained
   - Oracle: 👂 heard
   - MySQL: 🖐️ used
   - MariaDB: 🖐️ used
   - MS SQL Server: 👂 heard
   - Redis: 🖐️ used
-  - Rabbit: 🖐️ used
+  - Rabbit: 🙋 explained
   - MongoDB: 🖐️ used
   - Memcached: 👂 heard
   - Riak: 👂 heard
@@ -90,5 +90,5 @@
   - Big data: 🎓 known
   - Data analysis: 🖐️ used
   - AI tools: 🖐️ used
-  - Cloud databases: 👂 heard
-  - Data Visualization: 👂 heard
+  - Cloud databases: 🎓 known
+  - Data Visualization: 🎓 known

@@ -16,38 +16,38 @@
   - Module: 🖐️ used
   - Library: 🖐️ used
   - Package: 🖐️ used
-  - Component: 🎓 known
-  - Framework: 🖐️ used
+  - Component: 🖐️ used
+  - Framework: 🙋 explained
   - Platform: 🖐️ used
   - Source code: 🖐️ used
-  - Object code: 🎓 known
-  - Machine code: 🎓 known
+  - Object code: 🙋 explained
+  - Machine code: 🙋 explained
   - Microcode: 👂 heard
   - Software engineering: 🙋 explained
   - Decomposition: 🖐️ used
   - Control flow: 🎓 known
   - Data flow: 🎓 known
-  - Code reuse: 👂 heard
-  - Defensive programming: 🎓 known
-  - Don't repeat yourself (DRY): 🎓 known
-  - KISS principle: 🎓 known
+  - Code reuse: 🖐️ used
+  - Defensive programming: 🖐️ used
+  - Don't repeat yourself (DRY): 🙋 explained
+  - KISS principle: 🖐️ used
 - Syntax and concepts
-  - Value: 🖐️ used
-  - Identifier: 🖐️ used
-  - Variable: 🖐️ used
-  - Constant: 🖐️ used
-  - Scalar: 🖐️ used
-  - Literal: 🖐️ used
+  - Value: 🙋 explained
+  - Identifier: 🙋 explained
+  - Variable: 🙋 explained
+  - Constant: 🙋 explained
+  - Scalar: 🙋 explained
+  - Literal: 🙋 explained
   - Expression: 🖐️ used
   - Heap: 🎓 known
-  - Function: 🖐️ used
-  - Procedure: 🖐️ used
-  - Method: 🖐️ used
-  - Class: 🖐️ used
+  - Function: 🙋 explained
+  - Procedure: 🙋 explained
+  - Method: 🙋 explained
+  - Class: 🙋 explained
   - Prototype: 🖐️ used
   - Event: 🖐️ used
   - Type: 🖐️ used
-  - Flag: 🖐️ used
+  - Flag: 🙋 explained
   - Lexical scope: 🙋 explained
   - Code block: 🙋 explained
   - Conditions: 🖐️ used
@@ -67,57 +67,57 @@
   - Fail-fast: 🎓 known
 - Types
   - Primitive types: 🙋 explained
-  - Reference types: 🎓 known
+  - Reference types: 🖐️ used
   - Type systems: 🖐️ used
   - Strong typing: 🖐️ used
-  - Weak typing: 🎓 known
-  - Duck typing: 🎓 known
+  - Weak typing: 🖐️ used
+  - Duck typing: 🖐️ used
   - Static typing: 🖐️ used
   - Dynamic typing: 🖐️ used
-  - Nominal typing: 🎓 known
-  - Structural typing: 🎓 known
-  - Explicit typing: 🎓 known
+  - Nominal typing: 🖐️ used
+  - Structural typing: 🖐️ used
+  - Explicit typing: 🖐️ used
   - Type inference: 🖐️ used
-  - Covariance: 👂 heard
-  - Contravariance: 👂 heard
+  - Covariance: 🖐️ used
+  - Contravariance: 🖐️ used
 - Functions
-  - Signature: 🖐️ used
-  - Argument: 🖐️ used
-  - Parameter: 🖐️ used
+  - Signature: 🙋 explained
+  - Argument: 🙋 explained
+  - Parameter: 🙋 explained
   - Pure function: 🖐️ used
   - Lambda expression: 🖐️ used
-  - Side effects: 🎓 known
+  - Side effects: 🖐️ used
   - Closure: 🖐️ used
   - Partial application: 👂 heard
   - Currying: 👂 heard
-  - Higher order: 🎓 known
-  - Recursion: 🖐️ used
-  - Tail call optimisation: 🎓 known
-  - Callback: 🖐️ used
+  - Higher order: 🖐️ used
+  - Recursion: 🙋 explained
+  - Tail call optimisation: 🖐️ used
+  - Callback: 🙋 explained
   - Listener: 🖐️ used
   - Compositionu
   - Pipe: 🖐️ used
-  - Memoize: 🎓 known
+  - Memoize: 🖐️ used
   - Wrapper: 🖐️ used
-  - Functor: 🎓 known
-  - Monad: 🎓 known
+  - Functor: 🖐️ used
+  - Monad: 🖐️ used
   - Monoid: 🎓 known
   - Generator: 🖐️ used
   - Coroutine: 👂 heard
 - Data structures
-  - Array: 🖐️ used
-  - Structure: 🖐️ used
+  - Array: 🙋 explained
+  - Structure: 🙋 explained
   - Record: 🖐️ used
-  - Enum: 🖐️ used
-  - Instance: 🖐️ used
-  - Object: 🖐️ used
-  - Collection: 🖐️ used
-  - Set: 🖐️ used
+  - Enum: 🙋 explained
+  - Instance: 🙋 explained
+  - Object: 🙋 explained
+  - Collection: 🙋 explained
+  - Set: 🙋 explained
   - Hash table: 🖐️ used
   - Linked list: 🖐️ used
   - Doubly list: 🖐️ used
-  - Unrolled list: 🎓 known
-  - Circular list: 🎓 known
+  - Unrolled list: 🖐️ used
+  - Circular list: 🖐️ used
   - Queue: 🖐️ used
   - Stack: 🖐️ used
   - Deque: 🎓 known
@@ -129,23 +129,23 @@
   - Serialization: 🖐️ used
   - String parsing: 🖐️ used
   - JSON: 🖐️ used
-  - JSON5: 👂 heard
-  - YAML: 🎓 known
+  - JSON5: 🎓 known
+  - YAML: 🖐️ used
 - Networking
-  - DNS: 🖐️ used
-  - CDN: 🎓 known
-  - CORS: 🎓 known
-  - IPv4: 🖐️ used
-  - IPv6: 🎓 known
-  - NAT: 🎓 known
-  - URL: 🖐️ used
-  - URN: 🎓 known
-  - URI: 🎓 known
+  - DNS: 🙋 explained
+  - CDN: 🖐️ used
+  - CORS: 🖐️ used
+  - IPv4: 🙋 explained
+  - IPv6: 🖐️ used
+  - NAT: 🖐️ used
+  - URL: 🙋 explained
+  - URN: 🖐️ used
+  - URI: 🖐️ used
 - Process and tools
   - Compiler: 🖐️ used
   - Just-in-time compilation: 🖐️ used
   - Ahead-of-time compilation: 🖐️ used
-  - Transpiler: 🎓 known
+  - Transpiler: 🖐️ used
   - Linter: 🖐️ used
   - Polyfill: 🖐️ used
   - Interpreter: 🖐️ used
@@ -155,35 +155,35 @@
   - Runtime: 🖐️ used
   - Virtual machine: 🎓 known
   - Register-based VM: 👂 heard
-  - Stack-based VM
-  - Containerization
+  - Stack-based VM: 🎓 known
+  - Containerization: 🎓 known
   - Debugger: 🖐️ used
   - Tracing: 👂 heard
   - Garbage collection: 🖐️ used
-  - Refactoring: 🖐️ used
-  - Code review: 🖐️ used
+  - Refactoring: 🙋 explained
+  - Code review: 🙋 explained
   - Exception: 🖐️ used
-  - Unittesting: 🖐️ used
-  - git: 🖐️ used
-  - Github: 🖐️ used
-  - Docker: 🖐️ used
-  - Kubernetes: 👂 heard
-  - GCC
-  - LLVM
+  - Unittesting: 🙋 explained
+  - git: 🙋 explained
+  - Github: 🙋 explained
+  - Docker: 🙋 explained
+  - Kubernetes: 🎓 known
+  - GCC: 🎓 known
+  - LLVM: 🎓 known
 - Antipatterns
-  - Magic numbers: 🖐️ used
-  - Hard code: 🖐️ used
-  - Soft code: 🖐️ used
+  - Magic numbers: 🙋 explained
+  - Hard code: 🙋 explained
+  - Soft code: 🙋 explained
   - Cryptic code: 🎓 known
   - Improbability factor: 🎓 known
   - Accidental complexity: 🎓 known
   - Action at a distance: 👂 heard
-  - Spaghetti: 🖐️ used
-  - Silver bullet: 🖐️ used
-  - Not invented here: 🖐️ used
-  - Dead code: 🖐️ used
-  - Unreachable code: 🖐️ used
-  - Duplicate code: 🖐️ used
+  - Spaghetti: 🙋 explained
+  - Silver bullet: 🙋 explained
+  - Not invented here: 🙋 explained
+  - Dead code: 🙋 explained
+  - Unreachable code: 🙋 explained
+  - Duplicate code: 🙋 explained
   - Premature optimization: 👂 heard
   - Micro-optimization: 👂 heard
   - Nested loops: 🖐️ used
@@ -192,9 +192,9 @@
   - Large class/file: 🎓 known
   - Too many parameters: 🖐️ used
   - Pass-through parameters: 🎓 known
-  - Accumulate and fire: 👂 heard
+  - Accumulate and fire: 🎓 known
   - Use switch/case: 🖐️ used
-  - Temporary field: 👂 heard
+  - Temporary field: 🎓 known
   - Handle object as instances and hashes at the same time: 🎓 known
   - Use fields instead of arguments: 🖐️ used
   - Data clump: 👂 heard
@@ -214,7 +214,7 @@
   - Ring: 🎓 known
   - Virtual memory: 🎓 known
   - File system: 🖐️ used
-  - Linux: 🖐️ used
+  - Linux: 🙋 explained
   - Unix: 🖐️ used
   - BSD: 👂 heard
   - MacOS: 🎓 known
@@ -223,13 +223,13 @@
   - Embedded OS: 👂 heard
 - Standards
   - ASCII: 🖐️ used
-  - Escape sequence: 👂 heard
-  - RFC: 🎓 known
+  - Escape sequence: 🖐️ used
+  - RFC: 👂 heard
   - IETF: 👂 heard
   - IANA: 👂 heard
   - IEEE: 👂 heard
   - Base64: 🎓 known
-  - ECMA: 🎓 known
+  - ECMA: 🖐️ used
   - ICANN: 👂 heard
   - ISO: 🎓 known
   - MIME: 👂 heard
