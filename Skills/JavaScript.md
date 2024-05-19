@@ -7,8 +7,8 @@
   - `Number`: 🙋 explained
   - `BigInt`: 🙋 explained
   - `String`: 🙋 explained
-  - `Symbol`: e
-  - `Infinity`: u
+  - `Symbol`: 🙋 explained
+  - `Infinity`: 🖐️ used
   - `NaN`: 🙋 explained
   - `undefined`: 🙋 explained
   - `null`: 🙋 explained
@@ -20,23 +20,23 @@
   - Destructuring: 🖐️ used
   - Generators: 🖐️ used
   - Iterators: 🖐️ used
-  - Async generator: u
-  - Async iterator: u
-  - Chaining: u
+  - Async generator: 🖐️ used
+  - Async iterator: 🖐️ used
+  - Chaining: 🖐️ used
   - Optional chaining: 🎓 known
   - IIFE: 🎓 known
   - Async IIFE: 🎓 known
   - `global`: 🖐️ used
   - `globalThis`: 🖐️ used
-  - `window`: u
+  - `window`: 🖐️ used
   - Getters and setters: 🖐️ used
   - `__proto__`: 🖐️ used
   - `prototype`: 🖐️ used
-  - Equality operators: e
-  - Logical operators: e
-  - Logical Assignment: e
-  - Bitwise operators: e
-  - Ternary operator: e
+  - Equality operators: 🙋 explained
+  - Logical operators: 🙋 explained
+  - Logical Assignment: 🙋 explained
+  - Bitwise operators: 🙋 explained
+  - Ternary operator: 🙋 explained
   - `void`: 🖐️ used
   - `yield`: 🖐️ used
   - `await`: 🖐️ used
@@ -46,18 +46,18 @@
   - `delete`: 🖐️ used
   - `in`: 🖐️ used
   - `super`: 🖐️ used
-  - `eval`: u
+  - `eval`: 🖐️ used
   - `static`: 🖐️ used
   - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`: 🖐️ used
-  - Property descriptors: k
-  - Sealing properties: k
-  - Freezing properties: k
-  - Computed properties: h
-  - Instance class fields: u
-  - Static class fields: u
-  - Private class fields: u
-  - Private class methods: u
+  - Property descriptors: 🎓 known
+  - Sealing properties: 🎓 known
+  - Freezing properties: 🎓 known
+  - Computed properties: 👂 heard
+  - Instance class fields: 🖐️ used
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
+  - Private class methods: 🖐️ used
 - Statements
   - `if`: 🙋 explained
   - `while`: 🙋 explained
@@ -71,7 +71,7 @@
   - `continue`: 🖐️ used
   - `import`: 🖐️ used
   - `export`: 🖐️ used
-  - `label`: u
+  - `label`: 🖐️ used
   - `try..catch`: 🙋 explained
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
@@ -95,8 +95,8 @@
   - `Set`: 🙋 explained
   - `WeakMap`: 🖐️ used
   - `WeakSet`: 🖐️ used
-  - Typed arrays: u
-  - Mixins: u
+  - Typed arrays: 🖐️ used
+  - Mixins: 🖐️ used
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`: 🖐️ used
@@ -106,17 +106,17 @@
   - `Reflect`: 🎓 known
   - `Error`: 🖐️ used
   - `Atomics`: 🖐️ used
-  - `JSON`: e
-  - `WeakRef`: u
-  - `FinalizationRegistry`: u
+  - `JSON`: 🙋 explained
+  - `WeakRef`: 🖐️ used
+  - `FinalizationRegistry`: 🖐️ used
   - `Intl`: 👂 heard
-  - `Promise`: e
+  - `Promise`: 🙋 explained
   - `console`: 🙋 explained
   - Timers: 🖐️ used
 - Infrastructure
-  - V8: e
-  - Node.js: e
-  - npm: e
+  - V8: 🙋 explained
+  - Node.js: 🙋 explained
+  - npm: 🙋 explained
   - prettier: 🖐️ used
   - MDN: 🖐️ used
   - TC39: 👂 heard

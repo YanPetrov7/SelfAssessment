@@ -1,32 +1,32 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: e
+  - Event loop: 🙋 explained
   - `try..catch`: 🙋 explained
-  - Non-blocking: u
+  - Non-blocking: 🖐️ used
   - Async I/O: 🖐️ used
   - Thread pool: 🖐️ used
   - Pattern Reactor: 🎓 known
   - CAS operations: 🎓 known
-  - epoll: h
-  - kqueue: h
+  - epoll: 👂 heard
+  - kqueue: 👂 heard
   - Completion ports: 🎓 known
   - Event ports: 🖐️ used
-  - libuv: e
+  - libuv: 🙋 explained
   - Race conditions: 🖐️ used
   - Dead locks: 🖐️ used
-  - Live locks: u
-  - Concurrent programming: u
-  - Parallel programming: u
+  - Live locks: 🖐️ used
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model: 🖐️ used
-  - Thread: u
-  - Process: u
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks: e
-  - Callback-last-error-first: e
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 🙋 explained
   - Thenable: 🖐️ used
-  - Promise: e
-  - Async/await: e
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
   - Future: 🎓 known
   - Deferred: 🎓 known
   - Sync generator: 🖐️ used
@@ -39,7 +39,7 @@
   - Stream: 🎓 known
   - Chain of responsibility: 🖐️ used
   - Middleware: 🖐️ used
-  - Locks: u
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify: 🖐️ used
   - promisify: 🖐️ used
@@ -52,11 +52,11 @@
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform: 🎓 known
-  - Async Pool: u
-  - Async Queue: u
+  - Async Pool: 🖐️ used
+  - Async Queue: 🖐️ used
   - Async Collector: 🎓 known
-  - Semaphore: e
-  - Mutex: e
+  - Semaphore: 🙋 explained
+  - Mutex: 🙋 explained
   - Spin Lock: 🖐️ used
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
@@ -68,8 +68,8 @@
   - Promise double resolve: 🖐️ used
   - Atomics: 🎓 known
   - High resolution clock: 👂 heard
-  - Callback hell: e
-  - Promise hell: e
+  - Callback hell: 🙋 explained
+  - Promise hell: 🙋 explained
   - ref() and unref(): 👂 heard
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await: 🖐️ used
@@ -77,12 +77,12 @@
   - AsyncLocalStorage: 🎓 known
   - AsyncResource: 🎓 known
 - Techniques
-  - Async.js library: u
-  - RxJS library: u
+  - Async.js library: 🖐️ used
+  - RxJS library: 🖐️ used
   - Promise.all: 🖐️ used
   - Promise.allSettled: 🖐️ used
   - Promise.race: 🖐️ used
-  - Promise.any: u
+  - Promise.any: 🖐️ used
   - Web Locks API: 🖐️ used
   - IPC: 👂 heard
   - Channel API: 🖐️ used
