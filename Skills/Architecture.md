@@ -7,42 +7,42 @@
   - GRASP: 🖐️ used
   - SOLID: 🖐️ used
   - GoF patterns: 🎓 known
-  - CQS
-  - Leaking abstractions: 👂 heard
+  - CQS u
+  - Leaking abstractions: k
   - Multiparadigm code: 🖐️ used
-  - Contract programming: 👂 heard
+  - Contract programming: k
   - Platform-agnostic: 🎓 known
   - Transport-agnostic: 🎓 known
   - Framework-agnostic: 🎓 known
-  - Code coverage: 🖐️ used
+  - Code coverage: e
   - Cohesion: 🎓 known
   - Coupling: 🎓 known
   - Cyclomatic complexity: 🎓 known
   - Reliability: 🎓 known
-  - Quality: 🎓 known
-  - Availability: 🖐️ used
-  - Flexibility: 🖐️ used
-  - Law of Demeter (LoD): 🎓 known
+  - Quality: e
+  - Availability: e
+  - Flexibility: e
+  - Law of Demeter (LoD): u
 - Application architecture
-  - Isolation between layer: 🎓 known
+  - Isolation between layer: u
   - Domain-specific language (DSL): 🎓 known
-  - System vs applied code: 👂 heard
+  - System vs applied code: k
   - Multilayer approach: 🎓 known
   - Hexagonal architecture: 🎓 known
   - Separation of concerns (SoC): 🎓 known
-  - Metaprogramming: 👂 heard
+  - Metaprogramming: k
   - Inversion of control (IoC): 🖐️ used
   - Dependency injection (DI): 🖐️ used
   - Clean architecture: 🖐️ used
-  - Domain-driven design (DDD): 🎓 known
-  - Pub/sub: 🎓 known
-  - Message brocker: 🎓 known
+  - Domain-driven design (DDD): u
+  - Pub/sub: u
+  - Message brocker: u
   - Agent: 🎓 known
   - Service locator: 👂 heard
-  - Message Queue (MQ): 🎓 known
+  - Message Queue (MQ): e
   - CQRS: 🎓 known
   - Event sourcing: 🎓 known
-  - E-R data modeling: 🎓 known
+  - E-R data modeling: u
   - Entity-relationship diagram: 🎓 known
   - IDEF1X: 👂 heard
   - UML: 🖐️ used
@@ -51,18 +51,18 @@
   - Distributed systems: 🎓 known
   - High-intensive computing: 🎓 known
   - Load balancing: 🎓 known
-  - Gateways: 🖐️ used
-  - On-premises: 🖐️ used
+  - Gateways: e
+  - On-premises: e
   - IaaS: 👂 heard
   - PaaS: 👂 heard
-  - SaaS: 👂 heard
+  - SaaS: u
   - FaaS clouds: 🎓 known
   - Serverless: 🎓 known
   - Vendor lock-in: 👂 heard
   - Bus factor: 👂 heard
 - Solution architecture
   - A software requirements specification (SRS): 🎓 known
-  - Solution visions: 🎓 known
+  - Solution visions: u
   - Solution capabilities: 👂 heard
   - System design: 🎓 known
   - Process modelling: 👂 heard
@@ -88,13 +88,13 @@
   - Project scope: 🎓 known
   - Enterprise service bus: 🎓 known
   - Service-oriented architecture: 🎓 known
-  - Microservices: 🖐️ used
+  - Microservices: e
   - Process choreography: 🎓 known
   - Service orchestration: 🎓 known
   - Data warehouse: 👂 heard
   - Business Intelligence: 👂 heard
   - OLAP: 👂 heard
   - OLTP: 👂 heard
-  - Conways Law: 🎓 known
+  - Conways Law: u
   - Quality assurance: 🎓 known
   - Engineering Hygiene: 🎓 known

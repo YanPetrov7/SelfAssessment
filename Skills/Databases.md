@@ -1,9 +1,9 @@
 ## Databases
 
 - Theory and concepts
-  - Data types: 🎓 known
+  - Data types: e
   - Performance tuning: 🎓 known
-  - Migrations: 🖐️ used
+  - Migrations: e
   - Schema versioning: 🖐️ used
   - Backup and recovery: 🖐️ used
   - Database scalability: 🎓 known
@@ -16,11 +16,11 @@
   - Navigational databases: 🖐️ used
   - Hierarchical databases: 🖐️ used
   - In-memory databases: 🎓 known
-  - Inverted index: 👂 heard
-  - Data control language (DCL): 🎓 known
-  - Data definition language (DDL): 🎓 known
-  - Data manipulation language (DML): 🎓 known
-  - Data query language (DQL): 🎓 known
+  - Inverted index: k
+  - Data control language (DCL): u
+  - Data definition language (DDL): u
+  - Data manipulation language (DML): u
+  - Data query language (DQL): u
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
   - Normal forms: 🖐️ used
@@ -29,33 +29,33 @@
   - Foreign keys: 🙋 explained
   - Transactions: 🙋 explained
   - Views: 🖐️ used
-  - Subqueries: 🎓 known
+  - Subqueries: u
   - Stored procedures: 🖐️ used
   - SQL functions: 🖐️ used
   - Materialized views: 🎓 known
-  - Replications: 🎓 known
+  - Replications: u
   - Virtualization: 🎓 known
 - SQL
   - `SELECT`: 🙋 explained
   - `INSERT`: 🙋 explained
-  - `UPDATE`: 🖐️ used
-  - `DELETE`: 🖐️ used
-  - `LIMIT`: 🖐️ used
-  - `OFFSET`: 🎓 known
-  - `ORDER BY`: 🖐️ used
-  - `GROUP BY`: 🖐️ used
+  - `UPDATE`: e
+  - `DELETE`: e
+  - `LIMIT`: e
+  - `OFFSET`: u
+  - `ORDER BY`: e
+  - `GROUP BY`: e
   - `HAVING`: 🖐️ used
   - `EXISTS`: 🖐️ used
   - `JOIN`: 🖐️ used
   - `INNER JOIN`: 🖐️ used
   - `LEFT JOIN`: 🖐️ used
   - `RIGHT JOIN`: 🖐️ used
-  - `UNION`: 🎓 known
-  - `DISTINCT`: 🎓 known
+  - `UNION`: u
+  - `DISTINCT`: u
   - `WHERE`: 🖐️ used
   - `LIKE`: 🖐️ used
-  - `IN`: 🎓 known
-  - `BETWEEN`: 👂 heard
+  - `IN`: u
+  - `BETWEEN`: u
   - `CREATE TABLE`: 🙋 explained
   - `ALTER TABLE`: 🙋 explained
   - `DROP TABLE`: 🙋 explained
@@ -65,18 +65,18 @@
   - `DEFAULT`: 🖐️ used
   - `INDEX`: 🖐️ used
   - `UNIQUE`: 🖐️ used
-  - `GRANT`: 👂 heard
-  - `REVOKE`: 👂 heard
-  - `DENY`: 👂 heard
-  - `EXPLAIN`: 👂 heard
+  - `GRANT`: k
+  - `REVOKE`: k
+  - `DENY`: k
+  - `EXPLAIN`: k
 - Engines
-  - PostgreSQL: 🖐️ used
+  - PostgreSQL: e
   - Oracle: 👂 heard
   - MySQL: 🖐️ used
   - MariaDB: 🖐️ used
   - MS SQL Server: 👂 heard
   - Redis: 🖐️ used
-  - Rabbit: 🖐️ used
+  - Rabbit: e
   - MongoDB: 🖐️ used
   - Memcached: 👂 heard
   - Riak: 👂 heard
@@ -90,5 +90,5 @@
   - Big data: 🎓 known
   - Data analysis: 🖐️ used
   - AI tools: 🖐️ used
-  - Cloud databases: 👂 heard
-  - Data Visualization: 👂 heard
+  - Cloud databases: k
+  - Data Visualization: k

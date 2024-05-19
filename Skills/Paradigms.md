@@ -2,17 +2,17 @@
 
 - Theory
   - Procedural programming: 🖐️ used
-  - Imperative programming: 🖐️ used
-  - Structured programming: 🎓 known
+  - Imperative programming: e
+  - Structured programming: u
   - Non-structured programming: 🎓 known
-  - Functional programming: 🎓 known
+  - Functional programming: u
   - Prototype-based programming: 👂 heard
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🎓 known
   - Generic programming: 👂 heard
   - Concurrent computing: 🎓 known
-  - Asynchronous programming: 🖐️ used
-  - Parallel programming: 🎓 known
+  - Asynchronous programming: e
+  - Parallel programming: e
   - Reactive programming: 👂 heard
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming: 👂 heard
@@ -20,21 +20,21 @@
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 👂 heard
   - Actor model: 🖐️ used
-  - Lambda calculus: 👂 heard
+  - Lambda calculus: k
   - Black box: 👂 heard
-  - Information hiding: 👂 heard
-  - Aspect-oriented programming: 👂 heard
+  - Information hiding: k
+  - Aspect-oriented programming: k
   - Anemic domain model: 👂 heard
   - Class composition: 👂 heard
 - OOP basics
-  - Constructor: 🖐️ used
-  - Operator `new`: 🖐️ used
-  - Static method: 🖐️ used
-  - Method: 🖐️ used
-  - Async method: 🖐️ used
-  - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
+  - Constructor: e
+  - Operator `new`: e
+  - Static method: e
+  - Method: e
+  - Async method: e
+  - Getters, Setters: e
+  - Public fields: e
+  - Private fields: e
   - Field declarations: 🖐️ used
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
@@ -60,14 +60,14 @@
 - SOLID
   - Single-responsibility principle (SRP): 🖐️ used
   - Open–closed principle (OCP): 🎓 known
-  - Liskov substitution principle (LSP): 👂 heard
-  - Interface segregation principle (ISP): 👂 heard
+  - Liskov substitution principle (LSP): k
+  - Interface segregation principle (ISP): k
   - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
   - Singleton: 🎓 known
   - Factory Method: 🎓 known
-  - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
+  - Abstract Factory: k
+  - Adapter: h
   - Observer: 🖐️ used
   - Strategy: 👂 heard
   - Facade: 🎓 known

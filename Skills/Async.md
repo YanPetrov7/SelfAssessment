@@ -1,32 +1,32 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🖐️ used
+  - Event loop: e
   - `try..catch`: 🙋 explained
-  - Non-blocking: 🎓 known
+  - Non-blocking: u
   - Async I/O: 🖐️ used
   - Thread pool: 🖐️ used
   - Pattern Reactor: 🎓 known
   - CAS operations: 🎓 known
-  - epoll: 👂 heard
-  - kqueue: 👂 heard
+  - epoll: h
+  - kqueue: h
   - Completion ports: 🎓 known
   - Event ports: 🖐️ used
-  - libuv: 🖐️ used
+  - libuv: e
   - Race conditions: 🖐️ used
   - Dead locks: 🖐️ used
-  - Live locks: 🎓 known
-  - Concurrent programming: 🎓 known
-  - Parallel programming: 🎓 known
+  - Live locks: u
+  - Concurrent programming: u
+  - Parallel programming: u
   - Actor Model: 🖐️ used
-  - Thread: 🎓 known
-  - Process: 🎓 known
+  - Thread: u
+  - Process: u
 - Async contracts
-  - Callbacks: 🖐️ used
-  - Callback-last-error-first: 🖐️ used
+  - Callbacks: e
+  - Callback-last-error-first: e
   - Thenable: 🖐️ used
-  - Promise: 🎓 known
-  - Async/await: 🖐️ used
+  - Promise: e
+  - Async/await: e
   - Future: 🎓 known
   - Deferred: 🎓 known
   - Sync generator: 🖐️ used
@@ -39,7 +39,7 @@
   - Stream: 🎓 known
   - Chain of responsibility: 🖐️ used
   - Middleware: 🖐️ used
-  - Locks: 🎓 known
+  - Locks: u
 - Async adapters and utils
   - callbackify: 🖐️ used
   - promisify: 🖐️ used
@@ -52,11 +52,11 @@
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform: 🎓 known
-  - Async Pool: 🎓 known
-  - Async Queue: 🎓 known
+  - Async Pool: u
+  - Async Queue: u
   - Async Collector: 🎓 known
-  - Semaphore: 🖐️ used
-  - Mutex: 🖐️ used
+  - Semaphore: e
+  - Mutex: e
   - Spin Lock: 🖐️ used
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
@@ -68,8 +68,8 @@
   - Promise double resolve: 🖐️ used
   - Atomics: 🎓 known
   - High resolution clock: 👂 heard
-  - Callback hell: 🎓 known
-  - Promise hell: 🎓 known
+  - Callback hell: e
+  - Promise hell: e
   - ref() and unref(): 👂 heard
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await: 🖐️ used
@@ -77,12 +77,12 @@
   - AsyncLocalStorage: 🎓 known
   - AsyncResource: 🎓 known
 - Techniques
-  - Async.js library: 🎓 known
-  - RxJS library: 🎓 known
+  - Async.js library: u
+  - RxJS library: u
   - Promise.all: 🖐️ used
   - Promise.allSettled: 🖐️ used
   - Promise.race: 🖐️ used
-  - Promise.any: 🎓 known
+  - Promise.any: u
   - Web Locks API: 🖐️ used
   - IPC: 👂 heard
   - Channel API: 🖐️ used
